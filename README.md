@@ -1,4 +1,4 @@
-# Adaptive Traffic Management System
+# Adaptive  AI Based Traffic Management System
 
 ## Introduction
 
@@ -95,5 +95,6 @@ This will return the count of vehicles detected in each uploaded image. The vehi
 - - -
 
 © 2025 Algo Riders. All Rights Reserved.
+
 
 
